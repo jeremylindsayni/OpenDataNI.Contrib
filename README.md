@@ -7,7 +7,7 @@ This data could be
 * a format that's easily readable by a person but not by a machine (e.g. PDF), with an invite for someone from the community to convert to machine readable format
 * incomplete
 
-Issues can be submitted with the dataset describing problems or work that needs to be done before the data could be promoted to the OpenData NI portal.
+Issues can be submitted with the dataset describing problems or work that needs to be done before the data could be promoted to the OpenData NI portal. If you can help out, check out our issues page - some issues are labelled as 'good place to start' if you want to get involved!
 
 ## Data sets
 
